@@ -17,7 +17,8 @@ Up to this point, I have learnt the following HTML knowledge.
    2. html
    3. head
    4. meta
-   5. body
+   5. title
+   6. body
 3. HTML attributes
    1. a - href, target, rel
    2. img - src, alt, height, width
