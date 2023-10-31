@@ -28,3 +28,4 @@ Up to this point, I have learnt the following HTML knowledge.
 4. Concepts
    1. absolute links & relative links
    2. HTML encoding
+   3. Sematic HTML
